@@ -1,4 +1,8 @@
 # Statistical-Calculator
 A statistical calculator with a simple UI built using python for intro to cs.
 
-It does basic mathematical functions and takes csv files as input to output statistical inference.
+It takes csv files as input to output statistical inference.
+The UI uses pysimplegui
+other packages are pandas, tkinter and csv.
+
+There is a test data and the python program so that you can test it out.
